@@ -1,0 +1,25 @@
+body { 
+  color: #3E3E3E;
+  background:#EFEFEF;
+  font-family: 'Source Sans Pro', sans-serif;
+  align-content: center;
+}
+
+ .bc {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  text-align: right;
+  color: #258FC5;
+ }
+
+ .title {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  font-weight: 900;
+  font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  font-size: 4em;
+  color: #258FC5;
+ }
+
