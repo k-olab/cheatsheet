@@ -23,3 +23,33 @@ body {
   color: #258FC5;
  }
 
+ .subtitle{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  font-weight: 800;
+  font-size: large;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  font-size: 2em;
+  color: #258FC5;
+ }
+
+ .subtFunction{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  font-weight: 900;
+  font-size: smaller;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  font-size: 2em;
+  color:  #3E3E3E;
+ }
+
+ .bodyComand { 
+  color: #3E3E3E;
+  background:#EFEFEF;
+  font-family: 'Source Sans Pro', sans-serif;
+  align-content: center;
+  font-size: medium;
+  font-size: 2em;
+}
